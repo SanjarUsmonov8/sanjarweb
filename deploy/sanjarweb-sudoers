@@ -1,0 +1,1 @@
+deploy ALL=(root) NOPASSWD: /usr/bin/systemctl restart sanjar-main.service, /usr/bin/systemctl restart visual-you.service, /usr/bin/systemctl restart nginx.service

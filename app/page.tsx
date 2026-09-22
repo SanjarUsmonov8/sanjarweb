@@ -1,4 +1,7 @@
 export default function Home() {
+  const visualYouUrl =
+    process.env.NEXT_PUBLIC_VISUAL_YOU_URL ?? "http://localhost:3001/";
+
   return (
     <main className="profile-shell">
       <header>
@@ -18,7 +21,7 @@ export default function Home() {
 
       <section className="work" id="work">
         <p className="section-label">Selected work</p>
-        <a className="project-card" href="http://localhost:3001/">
+        <a className="project-card" href={visualYouUrl}>
           <div><span>01 · HABITS &amp; WELLBEING</span><h2>Visual You</h2><p>A kinder, more visual way to build habits and see who you&apos;re becoming.</p></div>
           <span className="arrow">↗</span>
         </a>

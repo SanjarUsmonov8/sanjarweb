@@ -16,7 +16,7 @@ const features = [
     title: "Muscle progress",
     copy: "Arms, chest, shoulders, back, abs, and legs respond to your completed workouts. As you train consistently, each muscle group changes color so you can see where your effort is going.",
     note: "A clear visual map of the muscle groups receiving your attention.",
-    image: "/screenshots/3rdmuscule.png",
+    image: "/screenshots/3rdmscl.png",
     alt: "Visual You screen showing color-coded muscle group progress",
   },
   {
@@ -34,7 +34,7 @@ const features = [
     title: "Plans that adapt",
     copy: "Gradual Reduction uses fast, medium, or easy schedules to increase the time between unwanted behaviors. Gradual Growth gently adds active days or repetitions and can move missed tasks to another eligible day.",
     note: "Heatmaps translate numerical records into a red-to-blue history of your progress.",
-    image: "/screenshots/5thgreduction.png",
+    image: "/screenshots/5thgradual.png",
     alt: "Visual You gradual reduction plan calendar",
   },
   {
@@ -43,7 +43,7 @@ const features = [
     title: "Graphs that explain",
     copy: "See how your habits change across daily, weekly, monthly, and yearly periods. Explore one habit, combine several into a Main Graph, or build Group Graphs for goals that belong together.",
     note: "Flexible tracking supports repetitions, time, amounts, and numerical goals.",
-    image: "/screenshots/6thgraphs.png",
+    image: "/screenshots/6thinfo.png",
     alt: "Visual You custom habit graphs and progress charts",
   },
   {
